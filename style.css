@@ -27,3 +27,13 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+.navy {
+    background-color: #1F2937;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
