@@ -16,10 +16,11 @@ ul {
     display: flex;
     flex-direction: row;
     align-items: center;
+    height: 400px;
 }
 
 .placeholder {
-    height: 100px;
+    height: 200px;
     width: 300px;
     margin-left: auto;
     display: flex;
