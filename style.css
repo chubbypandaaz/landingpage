@@ -37,3 +37,19 @@ h1 {
     font-weight: bolder;
     color: #F9FAF8;
 }
+
+h3 {
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    border-color: white;
+    border-style: solid;
+    height: 100px;
+    width: 100px;
+}
