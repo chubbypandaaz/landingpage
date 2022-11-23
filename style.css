@@ -129,10 +129,15 @@ button {
     display: flex;
     flex-direction: row;
     background-color: #3882F6;
+    padding: 75px 150px;
 }
 
 .blue {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.bottom-button {
+    margin-left: auto;
 }
