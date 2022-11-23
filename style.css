@@ -25,12 +25,13 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: gray;
 }
 
 .awesome,
 .placeholder {
-    height: 400px;
-    width: 600px;
+    height: 250px;
+    width: 500px;
     align-items: center;
 }
 
@@ -68,4 +69,9 @@ h3 {
 .box {
     height: 250px;
     width: 250px;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #E5E7EB;
 }
