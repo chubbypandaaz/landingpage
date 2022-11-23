@@ -33,13 +33,16 @@ h4 {
 .awesome,
 .placeholder {
     height: 250px;
-    width: 400px;
     align-items: center;
 }
 
+.placeholder {
+    width: 500px;
+}
 .awesome {
-    padding-right: 100px;
+    padding-right: 150px;
     padding-bottom: 60px;
+    width: 400px;
 }
 
 .navy {
