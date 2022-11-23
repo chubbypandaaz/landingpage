@@ -104,12 +104,15 @@ button {
     color: #1F2937;
     height: 90px;
     width: 750px;
+    margin-top: 200px;
 }
 
 .Thor {
     width: 750px;
     height: 200px;
     font-size: 18px;
+    margin-top: 100px;
+    text-align: right;
 }
 .gray {
     background-color: #d3d7df;
