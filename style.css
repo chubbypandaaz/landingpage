@@ -102,10 +102,19 @@ button {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
-    height: 83px;
-    width: 725px;
+    height: 90px;
+    width: 750px;
 }
 
+.Thor {
+    width: 750px;
+    height: 200px;
+    font-size: 18px;
+}
 .gray {
     background-color: #d3d7df;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
