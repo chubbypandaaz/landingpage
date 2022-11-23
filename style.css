@@ -93,5 +93,6 @@ ul {
 
 button {
     background-color: #3882F6;
-    padding: 10px 20px;
+    padding: 10px 28px;
+    border-radius: 15px;
 }
