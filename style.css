@@ -33,12 +33,13 @@ h4 {
 .awesome,
 .placeholder {
     height: 250px;
-    width: 500px;
+    width: 400px;
     align-items: center;
 }
 
 .awesome {
     padding-right: 100px;
+    padding-bottom: 60px;
 }
 
 .navy {
@@ -81,6 +82,10 @@ h3 {
 ul {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.secondary {
+    margin-top: -15px;
 }
 
 button {
