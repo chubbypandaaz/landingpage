@@ -124,6 +124,15 @@ button {
 }
 
 .sub-blue {
-    height: 100px;
+    height: 125px;
     width: 1000px;
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+}
+
+.blue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
