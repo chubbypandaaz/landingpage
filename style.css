@@ -84,7 +84,8 @@ h3 {
 }
 
 .secondary,
-ul {
+ul,
+.sub-blue div {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -132,6 +133,9 @@ button {
     padding: 75px 150px;
 }
 
+.call {
+    font-weight: bold;
+}
 .blue {
     display: flex;
     justify-content: center;
@@ -140,4 +144,7 @@ button {
 
 .bottom-button {
     margin-left: auto;
+    align-items: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
 }
