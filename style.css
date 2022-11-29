@@ -76,11 +76,14 @@ h3 {
     height: 180px;
     width: 180px;
     border-radius: 25px;
+    margin-left: 25px;
+    margin-bottom: 6px;
 }
 
 .box {
     height: 250px;
     width: 250px;
+    text-align: center;
 }
 
 .secondary,
