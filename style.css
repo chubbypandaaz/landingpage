@@ -45,7 +45,8 @@ h4 {
     width: 400px;
 }
 
-.navy {
+.navy,
+.footer {
     background-color: #1F2937;
 }
 
@@ -153,9 +154,8 @@ button {
 }
 
 .footer {
-    height: 50px;
+    height: 60px;
     justify-content: center;
     display: flex;
-    background-color: gray;
     align-items: center;
 }
